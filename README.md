@@ -362,35 +362,7 @@ function resetCalculator() {
    
   <h3>Specials</h3>
   
-  <div>
-    <input type="checkbox" id="Davechoice" value="2000$">
-    <label for="Davechoice">Sweet Too - 2000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="2700$">
-    <label for="Davechoice">Cozy Feeling Special - 2700$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="1100$">
-    <label for="Davechoice">Night Cap Special - 1100$</label>
-    <input type="number" value="1" min="1">
-  </div>
-    <div>
-    <input type="checkbox" id="Davechoice" value="500$">
-    <label for="Davechoice">Poor Man Special - 500$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">The Garrett Special - 5000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
+ 
   
     
   
