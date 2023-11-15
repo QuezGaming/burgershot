@@ -268,7 +268,7 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Beverage</h3>
+   <h3>Beverage</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
@@ -285,7 +285,7 @@ function resetCalculator() {
   </div>
  
  
-    <h3>Dessert</h3>
+   <h3>Dessert</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
@@ -302,7 +302,7 @@ function resetCalculator() {
   </div>
   
   
-    <h3>Ice Burger Shot Specials Meals</h3>
+   <h3>Ice Burger Shot Specials Meals</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
