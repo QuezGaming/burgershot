@@ -291,7 +291,7 @@ function resetCalculator() {
   
  <div>
     <input type="checkbox" id="Davechoice" value="175$">
-    <label for="Davechoice">Meteorite Ice Cream - 125$</label>
+    <label for="Davechoice">Meteorite Ice Cream - 400$</label>
     <input type="number" value="1" min="1">
   </div>
 
@@ -301,50 +301,59 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Ice Coffee Specials</h3>
+  
+    <h3>Ice Burger Shot Specials Meals</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
     <input type="checkbox" id="uwueats" value="1600$">
-    <label for="Velmachoice">10 Ice Coffee - 1600$</label>
+    <label for="Velmachoice">Simple Burger Meal - 1000$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="2500$">
-    <label for="Davechoice">20 Ice Coffee - 2500$</label>
+    <label for="Davechoice">The Prickly Meal - 1200$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="3500$">
-    <label for="Davechoice">30 Ice Coffee - 3500$</label>
+    <label for="Davechoice">The Bleeder Meal - 1500$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="4500$">
-    <label for="Davechoice">40 Ice Coffee - 4500$</label>
+    <label for="Davechoice">Double Shot Meal - 2500$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="5500$">
-    <label for="Davechoice">50 Ice Coffee - 5500$</label>
+    <label for="Davechoice">Heart Stopper Meal - 3000$</label>
     <input type="number" value="1" min="1">
   </div>
   
    <div>
     <input type="checkbox" id="Davechoice" value="9000$">
-    <label for="Davechoice">100 Ice Coffee - 9000$</label>
+    <label for="Davechoice">Goat Cheese Wrap Meal - 1500$</label>
     <input type="number" value="1" min="1">
   </div>
+
+    <div>
+    <input type="checkbox" id="Davechoice" value="9000$">
+    <label for="Davechoice">Chicken Wrap Meal - 2000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  
   <h3>Specials</h3>
   
   <div>
     <input type="checkbox" id="Davechoice" value="2000$">
-    <label for="Davechoice">Sweet Tooth Special - 2000$</label>
+    <label for="Davechoice">Sweet Too - 2000$</label>
     <input type="number" value="1" min="1">
   </div>
 
