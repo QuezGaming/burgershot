@@ -314,7 +314,7 @@ function resetCalculator() {
   </div>
   
   
-   <h3>Ice Burger Shot Specials Meals</h3>
+   <h3> Burger Shot Specials Meals</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
@@ -394,20 +394,6 @@ function resetCalculator() {
   <label for="25off">Mechs - 25% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
-
-  <h3>Mystery Gifts</h3>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice"> 1 Mystery Gift - 3000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">2 Mystery Gifts - 5000$</label>
-    <input type="number" value="1" min="1">
-  </div>
 
 <h3> Delivery </h3>
   
