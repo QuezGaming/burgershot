@@ -366,10 +366,25 @@ function resetCalculator() {
     <label for="Davechoice">5k Special - 5000$</label>
     <input type="number" value="1" min="1">
   </div>
+
+   <h3>Special Events</h3>
+   <div>
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">Small Event - 5000$</label>
+    <input type="number" value="1" min="1">
+  </div>
   
-  
+  <div>
+    <input type="checkbox" id="Davechoice" value="10000$">
+    <label for="Davechoice">Medium Event - 10000$</label>
+    <input type="number" value="1" min="1">
+  </div>
  
-  
+  <div>
+    <input type="checkbox" id="Davechoice" value="20000$">
+    <label for="Davechoice">Big Event - 20000$</label>
+    <input type="number" value="1" min="1">
+  </div>
     
   
 
