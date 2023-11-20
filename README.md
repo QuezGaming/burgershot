@@ -233,8 +233,8 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="150$">
-    <label for="Velmachoice">The Bleeder - $</label>150
+    <input type="checkbox" id="uwueats" value="125$">
+    <label for="Velmachoice">The Bleeder - $</label>125
     <input type="number" value="1" min="1">
   </div>
   
